@@ -10817,4 +10817,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+body {
+  background-image: url("../atset/background.png");
 }/*# sourceMappingURL=main.css.map */
