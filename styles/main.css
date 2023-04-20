@@ -10818,6 +10818,16 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+@media screen and (min-width: 768px) {
+  .picHidden {
+    display: none;
+  }
+}
+@media screen and (min-width: 992px) {
+  .pic2Hidden {
+    display: none;
+  }
+}
 body {
   background-image: url("../atset/background.png");
 }/*# sourceMappingURL=main.css.map */

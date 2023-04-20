@@ -1,2 +1,12 @@
 $primary: rgb(93, 231, 185);
 @import "../node_modules/bootstrap/scss/bootstrap";
+@media screen and (min-width : 768px) {
+.picHidden{
+    display: none;
+}
+}
+@media screen and (min-width : 992px) {
+    .pic2Hidden{
+        display: none;
+    }
+    }
